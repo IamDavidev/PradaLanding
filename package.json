@@ -1,0 +1,22 @@
+{
+  "name": "template-vanillajs-eslint-postcss-webcomponentes",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "stylelint": "^14.8.4",
+    "stylelint-config-prettier": "^9.0.3",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "^8.16.0",
+    "postcss": "^8.4.14",
+    "postcss-nesting": "^10.1.7",
+    "stylelint-config-standard": "^25.0.0"
+  }
+}
